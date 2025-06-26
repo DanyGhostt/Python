@@ -24,3 +24,4 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 #Linea para aprender git.
+#ITS FOREVER.
