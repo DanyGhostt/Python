@@ -22,3 +22,5 @@ cv2.imshow('imagen', imagen)
 cv2.imshow('th',th)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+#Linea para aprender git.
